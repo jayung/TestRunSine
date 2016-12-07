@@ -5,7 +5,6 @@
   </Configs>
   <NewExtensions>
     <extension index="0">extensions\GooglePlayServicesExtension</extension>
-    <extension index="1">extensions\GooglePlayLicensingAsExt</extension>
   </NewExtensions>
   <sounds name="sound">
     <sound>sound\sound_1</sound>
