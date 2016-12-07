@@ -551,7 +551,7 @@ draw_set_font(font0);
 draw_set_colour(c_aqua);
 draw_text(0, 440, "Score: " + string(global.distance));
 draw_text(250, 440, "Dash: " + string(global.dashCharges));
-draw_text(100, 20, "Highscore: " + string(highscore_value(1)));
+draw_text(100, 20, "Highscore:  " + string(highscore_value(1)));
 
 //first peice
 draw_sprite(sprite0, image_index, x , y);
